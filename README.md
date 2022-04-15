@@ -3,9 +3,9 @@ This project is a case study of an International Brewery that needs some insight
 
 #Project overview & Business problem:
 
-1. Profit Analysis: To Analyze how profitable the products are across all locations, months from 2017 to 2019.
+1. Profit Analysis: To Analyze how profitable the products are across all locations, months and years from 2017 to 2019.
 
-2. Brand / Product Analysis: To Analyze the performance of the products on which had highest sales, highest profit with a minimal cost possible.
+2. Brand / Product Analysis: To Analyze the performance of the products on which had highest sales and highest profit with a minimal cost possible.
 
 3. Countries Analysis: To Analyze for the countries with highest sales and profit.
 
